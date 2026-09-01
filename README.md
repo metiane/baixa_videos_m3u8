@@ -22,12 +22,13 @@ sudo pacman -S ffmpeg yt-dlp
 
 ---
 
-## 📁 2. Estrutura de ArquivosVideo Downloads/
+## 📁 2. Estrutura de Arquivos
 ```text
-├── baixa_m3u8-V2.py
-├── baixa_video.py
-├── README.md
-└── README.txt
+Video Downloads/
+      ├── baixa_m3u8-V2.py
+      ├── baixa_video.py
+      ├── README.md
+      └── README.txt
 ```
 ---
 
