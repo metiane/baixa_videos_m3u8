@@ -66,9 +66,9 @@ Alguns fluxos da Hotmart e players embarcados não usam .m3u8 com ponto no nome 
 
 Como fazer a requisição aparecer:
       Caso não apareça nada, limpe a caixa de busca e selecione a aba All (em vez de Fetch/XHR).
-      Recarregue a página:
-            Pressione F5 (com o DevTools aberto).
-            Dê Play no vídeo caso ele não inicie sozinho.
+      Recarregue a página.
+      Pressione F5 (com o DevTools aberto).
+      Dê Play no vídeo caso ele não inicie sozinho.
 
 ---
 
