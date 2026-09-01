@@ -22,12 +22,12 @@ sudo pacman -S ffmpeg yt-dlp
 
 ---
 
-## 📁 2. Estrutura de ArquivosVideo Downloads/
-├── baixa_m3u8-V2.py  # Script principal otimizado (Final)
-├── baixa_video.py    # Script legado de testes
-├── README.md         # Documentação formatada em Markdown
-└── README.txt        # Documentação em texto simples
-
+## 📁 2. Estrutura de ArquivosVideo Downloads/```text
+Video Downloads/
+├── baixa_m3u8-V2.py
+├── baixa_video.py
+├── README.md
+└── README.txt ```
 ---
 
 ## 🚀 3. Fluxo de Uso e Execução
