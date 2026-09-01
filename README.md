@@ -20,7 +20,7 @@ No terminal (Fish Shell / Bash), execute:
 
 sudo pacman -S ffmpeg yt-dlp
 
-📁 2. Estrutura de Arquivos
+## 📁 2. Estrutura de Arquivos
 Plaintext
 Video Downloads/
 ├── baixa_m3u8-V2.py  # Script principal otimizado (Final)
@@ -28,7 +28,7 @@ Video Downloads/
 ├── README.md         # Documentação formatada em Markdown
 └── README.txt        # Documentação em texto simples
 
-🚀 3. Fluxo de Uso e Execução
+*## 🚀 3. Fluxo de Uso e Execução
 PASSO 1: Obter a URL do fluxo (.m3u8) no navegador
 Acesse a página da vídeo-aula no seu navegador (Brave, Firefox, Chrome).
 
@@ -58,7 +58,7 @@ Pressione Ctrl + Shift + F10 (ou clique com o botão direito no editor e selecio
 
 Cole a URL .m3u8 no terminal interno da IDE quando solicitado e pressione Enter.
 
-⚡ 4. Autenticação e Recursos Avançados
+## ⚡ 4. Autenticação e Recursos Avançados
 Sessão do Navegador (cookiesfrombrowser): O script utiliza a extração de cookies configurada por padrão para o navegador brave. Caso utilize outro navegador, altere para 'firefox', 'chrome' ou 'edge' no dicionário ydl_opts.
 
 Cabeçalhos HTTP (Bypass 403 Forbidden): Inclui simulação de Referer (https://play.hotmart.com/) e User-Agent para burlar a checagem de origem do player nativo.
