@@ -26,13 +26,9 @@ sudo pacman -S ffmpeg yt-dlp
 
 Plaintext
 Video Downloads/
-      |
       ├── baixa_m3u8-V2.py  # Script principal otimizado (Final)
-      |
       ├── baixa_video.py    # Script legado de testes
-      |
       ├── README.md         # Documentação formatada em Markdown
-      |
       └── README.txt        # Documentação em texto simples
 
 ---
