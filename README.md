@@ -16,8 +16,6 @@ Script em Python desenvolvido para automação, extração e download de vídeo-
 
 No terminal (Fish Shell / Bash), execute:
 
-```fish``
-
 sudo pacman -S ffmpeg yt-dlp
 
 ---
