@@ -64,7 +64,7 @@ Cole a URL .m3u8 no terminal interno da IDE quando solicitado e pressione Enter.
 Alguns fluxos da Hotmart e players embarcados não usam .m3u8 com ponto no nome do arquivo final da requisição 
 (muitas vezes vem como master ou em parâmetros com hash sem extensão explícita).
 
-# Como fazer a requisição aparecer:
+### Como fazer a requisição aparecer:
       Caso não apareça nada, limpe a caixa de busca e selecione a aba All (em vez de Fetch/XHR).
       Recarregue a página.
       Pressione F5 (com o DevTools aberto).
